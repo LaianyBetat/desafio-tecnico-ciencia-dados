@@ -111,7 +111,7 @@ a) Parceiro com maior TPV por mês:
 
 Resultado:
 
-Os resultados mostram que, nos meses de julho, agosto e setembro de 2024, os parceiros com maior volume de processamento de vendas em termos de TPV (Valor Total Processado) variam significativamente. Em julho de 2024, o parceiro com o maior processamento foi o user_id 4057, com um TPV impressionante de R$ 51.822.500,00, enquanto nos meses de agosto e setembro, o parceiro user_id 652 liderou com valores menores, porém ainda expressivos, de R$ 12.256.841,77 e R$ 8.982.559,97, respectivamente. Esses resultados apontam para uma possível concentração de grandes vendas em certos parceiros em momentos específicos do ano.
+Os resultados mostram que, nos meses de julho, agosto e setembro de 2024, os parceiros com maior volume de processamento de vendas em termos de TPV variam significativamente. Em julho de 2024, o parceiro com o maior processamento foi o user_id 4057, com um TPV de R$ 51.822.500,00, enquanto nos meses de agosto e setembro, o parceiro user_id 652 liderou com valores menores, porém ainda expressivos, de R$ 12.256.841,77 e R$ 8.982.559,97, respectivamente. Esses resultados apontam para uma possível concentração de grandes vendas em certos parceiros em momentos específicos do ano.
 
 ![image](https://github.com/user-attachments/assets/469868d3-33de-4c06-b2d8-71aa1f5a492b)
 
@@ -122,21 +122,25 @@ O pico de processamento de cartão de crédito ocorreu em julho de 2024, com um 
 
 c) Identificação dos parceiros supremos:
 Resultado: 
-A análise revelou que existem 118 parceiros supremos na base de dados, definidos como aqueles que apresentam uma média de processamento total superior a R$ 300.000,00 ao longo de um período de três meses.
+A análise mostra que existem 118 parceiros supremos na base de dados, definidos como aqueles que apresentam uma média de processamento total superior a R$ 300.000,00 ao longo de um período de três meses.
 
 d) Oscilação no número de parceiros entre agosto e setembro:
 Resultado: 
-A análise da estabilidade do processamento dos parceiros revelou uma oscillação absoluta de -1.040 parceiros e uma oscillação percentual de -13,11% entre os meses de agosto e setembro. Isso indica uma diminuição significativa no número de parceiros que geraram um processamento maior que zero nesse período. Uma redução tão acentuada sugere que a fintech pode estar enfrentando desafios que afetam a performance de seus parceiros, como mudanças nas condições de mercado ou problemas operacionais.
+A análise da estabilidade do processamento dos parceiros revelou uma oscillação absoluta de -1.040 parceiros e uma oscillação percentual de -13,11% entre os meses de agosto e setembro. Isso indica uma diminuição significativa no número de parceiros que geraram um processamento maior que zero nesse período. Essa redução sugere que a fintech pode estar enfrentando desafios que afetam a performance de seus parceiros, como mudanças nas condições de mercado ou problemas operacionais.
 
 Outras Análises
+
  Análise da quantidade total de transações e a quantidade de transações finalizadas, bem como suas taxas de conversoes:
-Resultado: A taxa de conversão de 47,67% indica que quase metade das transações realizadas pelos parceiros foram finalizadas com sucesso no status "integrado". Embora isso sugira um desempenho razoável, também revela que mais de 52% das transações não foram integradas, apontando para possíveis problemas operacionais ou técnicos. Melhorar essa taxa deve ser uma prioridade, pois uma conversão mais alta pode resultar em maior receita e fortalecer a confiança na plataforma, além de aprimorar as relações com os parceiros.
+ 
+Resultado: A taxa de conversão de 47,67% indica que quase metade das transações realizadas pelos parceiros foram finalizadas com sucesso no status "integrado". Embora isso sugira um desempenho razoável, também revela que mais de 52% das transações não foram integradas, apontando para possíveis problemas operacionais ou técnicos. Melhorar essa taxa é um pilar importante, pois uma conversão mais alta pode resultar em maior receita e fortalecer a confiança na plataforma, além de aumentar as relações com os parceiros.
 
 Análise de Número de Transações por Mês
+
 Resultado: Os dados mostram que o número de transações por mês em julho, agosto e setembro de 2024 foi de 1.637.565, 1.598.021 e 1.289.503, respectivamente. Embora julho tenha registrado o maior volume, houve uma queda de aproximadamente 19,3% em setembro em relação a agosto, indicando uma possível sazonalidade ou fatores que impactaram a demanda.
 ![image](https://github.com/user-attachments/assets/42b24b4b-60e5-470e-ac1f-4be87cbe643a)
 
 Análises sobre o tempo entre transacoes
+
 Resultado: Os resultados revelam o tempo médio entre transações para diferentes user_ids, variando de 4,43 a 7,75 dias. Esses dados são importantes para entender o comportamento dos parceiros, pois intervalos menores podem indicar maior engajamento com a plataforma. Essa análise pode ajudar a fintech a segmentar usuários, desenvolver estratégias de marketing direcionadas e identificar oportunidades para incentivar transações mais frequentes, especialmente entre aqueles com intervalos maiores.
 
 
